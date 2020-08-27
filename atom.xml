@@ -1,26 +1,52 @@
----
----
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>{{ site.title | xml_escape }}</title>
- <link href="{{ site.url }}/atom.xml" rel="self"/>
- <link href="{{ site.url }}/"/>
- <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>{{ site.url }}</id>
+ <title>Hello. I'm William Wang.</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-08-27T11:49:37-04:00</updated>
+ <id>http://localhost:4000</id>
  <author>
-   <name>{{ site.admin_name }}</name>
-   <email>{{ site.data.global.admin_email }}</email>
+   <name>William Wang</name>
+   <email></email>
  </author>
 
- {% for post in site.posts %}
+ 
  <entry>
-   <title>{{ post.title }}</title>
-   <link href="{{ site.url }}{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>{{ site.url }}{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
+   <title>Phantom</title>
+   <link href="http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template.html"/>
+   <updated>2016-02-20T16:15:00-05:00</updated>
+   <id>http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template</id>
+   <content type="html">
+</content>
  </entry>
- {% endfor %}
+ 
+ <entry>
+   <title>Rescue Themes</title>
+   <link href="http://localhost:4000/development/design/2016/02/20/rescue-themes.html"/>
+   <updated>2016-02-20T10:56:00-05:00</updated>
+   <id>http://localhost:4000/development/design/2016/02/20/rescue-themes</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Weathercast</title>
+   <link href="http://localhost:4000/development/2016/02/20/weathercast.html"/>
+   <updated>2016-02-20T10:56:00-05:00</updated>
+   <id>http://localhost:4000/development/2016/02/20/weathercast</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bloc Jams Angular</title>
+   <link href="http://localhost:4000/development/2016/02/20/bloc-jams-angular.html"/>
+   <updated>2016-02-20T09:15:00-05:00</updated>
+   <id>http://localhost:4000/development/2016/02/20/bloc-jams-angular</id>
+   <content type="html">
+</content>
+ </entry>
+ 
 
 </feed>
