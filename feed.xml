@@ -5,68 +5,64 @@
     <description>I'm a software developer and student from Toronto passionate about app development</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Aug 2020 13:11:48 -0400</pubDate>
-    <lastBuildDate>Fri, 28 Aug 2020 13:11:48 -0400</lastBuildDate>
+    <pubDate>Fri, 28 Aug 2020 18:11:58 -0400</pubDate>
+    <lastBuildDate>Fri, 28 Aug 2020 18:11:58 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
-        <title>Phantom</title>
+        <title>Safepay</title>
         <description>
 </description>
-        <pubDate>Sat, 20 Feb 2016 16:15:00 -0500</pubDate>
-        <link>http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template.html</guid>
+        <pubDate>Fri, 28 Aug 2020 09:53:00 -0400</pubDate>
+        <link>http://localhost:4000/web/development/2020/08/28/Safepay.html</link>
+        <guid isPermaLink="true">http://localhost:4000/web/development/2020/08/28/Safepay.html</guid>
         
-        <category>Jekyll</category>
+        <category>Html</category>
         
-        <category>Sass</category>
+        <category>Javascript</category>
         
-        <category>Bootstrap</category>
+        <category>Blockstack</category>
         
+        
+        <category>web</category>
         
         <category>development</category>
-        
-        <category>design</category>
         
       </item>
     
       <item>
-        <title>Rescue Themes</title>
+        <title>Kentucky Front Camera</title>
         <description>
 </description>
-        <pubDate>Sat, 20 Feb 2016 10:56:00 -0500</pubDate>
-        <link>http://localhost:4000/development/design/2016/02/20/rescue-themes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/design/2016/02/20/rescue-themes.html</guid>
+        <pubDate>Thu, 27 Aug 2020 11:28:00 -0400</pubDate>
+        <link>http://localhost:4000/hardware/development/2020/08/27/KFC.html</link>
+        <guid isPermaLink="true">http://localhost:4000/hardware/development/2020/08/27/KFC.html</guid>
         
-        <category>WordPress</category>
+        <category>C++</category>
         
-        <category>PHP</category>
+        <category>Arduino</category>
         
-        <category>Sass</category>
         
+        <category>hardware</category>
         
         <category>development</category>
-        
-        <category>design</category>
         
       </item>
     
       <item>
-        <title>Weathercast</title>
+        <title>What?</title>
         <description>
 </description>
-        <pubDate>Sat, 20 Feb 2016 10:56:00 -0500</pubDate>
-        <link>http://localhost:4000/development/2016/02/20/weathercast.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2016/02/20/weathercast.html</guid>
+        <pubDate>Wed, 26 Aug 2020 12:42:00 -0400</pubDate>
+        <link>http://localhost:4000/android/development/2020/08/26/What.html</link>
+        <guid isPermaLink="true">http://localhost:4000/android/development/2020/08/26/What.html</guid>
         
-        <category>JavaScript</category>
+        <category>Android</category>
         
-        <category>AngularJS</category>
+        <category>Clarifai-Api</category>
         
-        <category>API</category>
         
-        <category>Sass</category>
-        
+        <category>android</category>
         
         <category>development</category>
         
