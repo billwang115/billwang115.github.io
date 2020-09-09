@@ -18,9 +18,9 @@ email: 'billwang115@gmail.com'
 description: "I'm a software developer and student from Toronto passionate about app development"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://billwang115.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'Bill115dollars'
 github_username: 'billwang115'
-medium_username: 'billwang115'
+linkedin_username: 'billwang115'
+twitter_username: 'Bill115dollars'
 
 # Build settings
 markdown: kramdown
