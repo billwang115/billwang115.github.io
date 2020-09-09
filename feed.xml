@@ -5,8 +5,8 @@
     <description>I'm a software developer and student from Toronto passionate about app development</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Aug 2020 18:11:58 -0400</pubDate>
-    <lastBuildDate>Fri, 28 Aug 2020 18:11:58 -0400</lastBuildDate>
+    <pubDate>Wed, 09 Sep 2020 14:18:58 -0400</pubDate>
+    <lastBuildDate>Wed, 09 Sep 2020 14:18:58 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -31,19 +31,21 @@
       </item>
     
       <item>
-        <title>Kentucky Front Camera</title>
+        <title>TutorShare</title>
         <description>
 </description>
-        <pubDate>Thu, 27 Aug 2020 11:28:00 -0400</pubDate>
-        <link>http://localhost:4000/hardware/development/2020/08/27/KFC.html</link>
-        <guid isPermaLink="true">http://localhost:4000/hardware/development/2020/08/27/KFC.html</guid>
+        <pubDate>Thu, 27 Aug 2020 08:39:00 -0400</pubDate>
+        <link>http://localhost:4000/web/development/2020/08/27/TutorShare.html</link>
+        <guid isPermaLink="true">http://localhost:4000/web/development/2020/08/27/TutorShare.html</guid>
         
-        <category>C++</category>
+        <category>Node.js</category>
         
-        <category>Arduino</category>
+        <category>React</category>
+        
+        <category>Firebase</category>
         
         
-        <category>hardware</category>
+        <category>web</category>
         
         <category>development</category>
         
@@ -69,21 +71,19 @@
       </item>
     
       <item>
-        <title>Bloc Jams Angular</title>
+        <title>Kentucky Front Camera</title>
         <description>
 </description>
-        <pubDate>Sat, 20 Feb 2016 09:15:00 -0500</pubDate>
-        <link>http://localhost:4000/development/2016/02/20/bloc-jams-angular.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2016/02/20/bloc-jams-angular.html</guid>
+        <pubDate>Tue, 25 Aug 2020 11:28:00 -0400</pubDate>
+        <link>http://localhost:4000/hardware/development/2020/08/25/KFC.html</link>
+        <guid isPermaLink="true">http://localhost:4000/hardware/development/2020/08/25/KFC.html</guid>
         
-        <category>JavaScript</category>
+        <category>C++</category>
         
-        <category>AngularJS</category>
+        <category>Arduino</category>
         
-        <category>Sass</category>
         
-        <category>Grunt</category>
-        
+        <category>hardware</category>
         
         <category>development</category>
         
